@@ -1,4 +1,4 @@
-I got tired of all the keyboard layouts and needing a russian one atop a ukranian one so I made this
+I got tired of all the keyboard layouts and needing a russian one atop a ukrainian one so I made this
 The only things I might want to change are и та і, but personally I used a russian phonetic for a long time
 and with the frequency of и in ukro it just makes sense to keep it there, despite the phonetic disparity
 It should be noted also that all common ukranian punctuation is right by the finger placements for shift+rightalt (AltGr)
